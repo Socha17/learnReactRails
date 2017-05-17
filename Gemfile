@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap', '~> 4.0.0alpha3.1'
 
+gem "react-rails"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
